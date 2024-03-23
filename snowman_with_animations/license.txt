@@ -1,0 +1,11 @@
+Model Information:
+* title:	Snowman with Animations
+* source:	https://sketchfab.com/3d-models/snowman-with-animations-4dbef125477646f5bc538ebe1675fec0
+* author:	Reyyan yaqub (https://sketchfab.com/reyyanyaqub)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Snowman with Animations" (https://sketchfab.com/3d-models/snowman-with-animations-4dbef125477646f5bc538ebe1675fec0) by Reyyan yaqub (https://sketchfab.com/reyyanyaqub) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
